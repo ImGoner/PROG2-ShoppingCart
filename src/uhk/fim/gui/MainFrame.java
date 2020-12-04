@@ -10,7 +10,7 @@ public class MainFrame extends JFrame implements ActionListener {
     JButton btnPridej;
     JButton btnDelete;
     JTextField txtInputName,txtInputCenaKus,txtInputPocetKusu;
-
+/**Ahoj**/
     public MainFrame(int width, int height) {
         super("super");
 
